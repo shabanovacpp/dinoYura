@@ -135,5 +135,5 @@ function gg() {
 }
 document.onclick = gg;
     
-addEventListener('touchstart', jump);
+addEventListener("touchstart", jump);
 addEventListener("keydown", jump);
