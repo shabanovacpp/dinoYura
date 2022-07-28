@@ -133,7 +133,7 @@ function gg() {
             }, 20)
         }
 }
-//document.onclick = gg;
+document.onclick = gg;
     
-//addEventListener("touchstart", jump);
+addEventListener("touchstart", jump);
 addEventListener("keydown", jump);
